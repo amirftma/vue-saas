@@ -1,4 +1,6 @@
 # repo
+I use this project to learn vue and components in vue.  
+An Example site to show some product in one page with cart option.
 
 ## Project setup
 ```
